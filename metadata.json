@@ -1,0 +1,6 @@
+{
+  "name": "Viral Content AI",
+  "description": "Plataforma inteligente de creación de contenido estratégico, investigación de tendencias virales, guiones completos, prompts para IA y fichas de producción para creadores y marcas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
